@@ -16,5 +16,6 @@ I use Mod4 (Super/Windows Key) for controlling keybindings, you should look at [
 I just update i3 keybinding, and add screenlayout then i change some default apps to Kitty, since xfce4-terminal is not good for me.
 
 ## Preview
-![](Pictures/preview/dotfiles.png)
-![](Pictures/preview/background.png)
+![](Pictures/Preview/dotfiles.png)
+![](Pictures/Preview/background.png)
+

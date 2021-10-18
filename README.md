@@ -12,10 +12,23 @@ run bash file for make it easier, without ever manually adding things by yoursel
 ## Keybindings
 I use Mod4 (Super/Windows Key) for controlling keybindings, you should look at [.config/i3/config](.config/i3/config) for more info.
 
+In neovim, i use CTRL + E for opening File Explorer, SHIFT + E for opening telescope, and finally F5 for automatic saving the text.
+
 ## Footprint
 I just update i3 keybinding, and add screenlayout then i change some default apps to Kitty, since xfce4-terminal is not good for me.
+
+For nvim configuration, in order to activate the plugins, you have to type the following in your neovim.
+
+```bash
+:PackerSync
+```
 
 ## Preview
 ![](Pictures/Preview/dotfiles.png)
 ![](Pictures/Preview/background.png)
+
+## Credits
+EndeavourOS Team - Incredible OS that i currently using now as daily driver.
+dakyskye - For his nice neovim setup and telling me things to make use of his plugins.
+Cheaterman - Helping me learning about vim and maybe introducing me about vim world.
 

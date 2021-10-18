@@ -12,7 +12,7 @@ cp -r .profile ~/.profile
 
 cp -r .screenlayout/monitor.sh ~/.screenlayout/monitor.sh
 
-echo "Replacing ~/.config with new ones"
+echo "Replacing ~/.config setup"
 
 rm -rf ~/.config/dconf
 cp -r .config/dconf ~/.config/dconf
@@ -31,6 +31,9 @@ cp -r .config/nitrogen ~/.config/nitrogen
 
 rm -rf ~/.config/neofetch
 cp -r .config/neofetch ~/.config/neofetch
+
+rm -rf ~/.config/nvim
+cp -r .config/nvim ~/.config/nvim
 
 rm -rf ~/.config/pulse
 cp -r .config/pulse ~/.config/pulse

@@ -17,7 +17,7 @@ In neovim, i use CTRL + E for opening File Explorer, SHIFT + E for opening teles
 ## Footprint
 I just update i3 keybinding, and add screenlayout then i change some default apps to Kitty, since xfce4-terminal is not good for me.
 
-For nvim configuration, in order to activate the plugins, you have to type the following in your neovim.
+For nvim configuration, in order to activate the plugins, you have to type the following nvim command.
 
 ```bash
 :PackerSync
@@ -28,7 +28,7 @@ For nvim configuration, in order to activate the plugins, you have to type the f
 ![](Pictures/Preview/background.png)
 
 ## Credits
-EndeavourOS Team - Incredible OS that i currently using now as daily driver.
-dakyskye - For his nice neovim setup and telling me things to make use of his plugins.
-Cheaterman - Helping me learning about vim and maybe introducing me about vim world.
+- **[EndeavourOS Team](https://github.com/endeavouros-team)** - Incredible OS that i currently using now as daily driver.
+- **[dakyskye](https://github.com/dakyskye)** - For his nice neovim setup and telling me things to make use of his plugins.
+- **[Cheaterman](https://github.com/cheaterman)** - Helping me learning about vim and maybe introducing me about vim world.
 
